@@ -14,6 +14,6 @@ final result your nose hitting the bed (AS I DID TOO) which is not corrected.
 
 Also a final tip is, to set your z_offset 0.01mm more than you thing it is the correct through the classic procedure with bed through nozzle paper grinding... I don't know why, but it helped me.
 
-Sorry for the long text, but I wish someone wrote that for me text for me also to save me from all this suffering...
+Sorry for the long text, but I wish someone had written this text for me also to save me from all this suffering...
 
 Have nice printings!!!
